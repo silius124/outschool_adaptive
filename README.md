@@ -4,8 +4,8 @@
 
 ---
 
-![Гиф видео работы сайта](./gif_adaptive_outschool.gif)
-![Гиф видео работы сайта](./gif_adaptive_outschool_mobile.gif)
+![Гиф видео работы сайта](./public/gif_adaptive_outschool.gif)
+![Гиф видео работы сайта](./public/gif_adaptive_outschool_mobile.gif)
 
 ## Стек
 * HTML
@@ -17,3 +17,4 @@
 ## Лицензия
 
 MIT — свободное использование на твоё усмотрение.
+
